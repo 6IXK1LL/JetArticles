@@ -4,9 +4,14 @@ from parser import Parser
 from typing import List
 
 
-def create(title, content) -> str:
+def account():
     telegraph = Telegraph()
     telegraph.create_account(short_name='1337')
+
+    return telegraph
+
+def create(title, content) -> str:
+    telegraph = account()
 
     response = telegraph.create_page(
         title,
