@@ -11,16 +11,8 @@
 ### A simple bot for making articles in telegram with Requests & beautifulsoup4 and habr.com
 
 
-# Technical part
-
 ## How to start the bot
 > python bot.py
 
 ## How to create an article:
 > /habr_parse https://habr.com/ru/post/example/
-
-## Libraries
-> 1. Aiogram
-> 2. Telegraph
-> 3. Requests
-> 4. Beautifulsoup4 (bs4)
