@@ -8,11 +8,10 @@
 
 # What is it?
 
-### A simple bot for making articles in telegram with Requests & beautifulsoup4 and habr.com
+#### This bot making articles in [telegraph](https://telegra.ph) ([telegram](https://telegram.org))
 
-
-## How to start the bot
+#### Start:
 > python bot.py
 
-## How to create an article:
+#### How to create an article:
 > /habr_parse https://habr.com/ru/post/example/
