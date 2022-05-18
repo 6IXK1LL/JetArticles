@@ -6,12 +6,20 @@
 <img src="https://img.shields.io/github/stars/6IXK1LL/JetArticles">
 </p>
 
-# What is it?
+***
 
-#### This bot making articles in [telegraph](https://telegra.ph) ([telegram](https://telegram.org))
+## What is it?
 
-#### Start:
-> python bot.py
+This bot making articles in [telegraph](https://telegra.ph) ([telegram](https://telegram.org))
 
-#### How to create an article:
-> /habr_parse https://habr.com/ru/post/example/
+*Start:*
+
+`Bash
+python bot.py
+`
+
+*How to create an article:*
+
+`
+/habr_parse https://habr.com/ru/post/example/
+`
