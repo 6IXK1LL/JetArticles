@@ -1,5 +1,7 @@
 <h1 align="center" style="font-weight: bold">🚀JetArticles</h1>
 
+![image](https://cdn.discordapp.com/attachments/975025066607775816/982955191840161822/jetArticles.png)
+
 <p align="center">
 <img src="https://img.shields.io/github/downloads/6IXK1LL/JetArticles/total">
 <img src="https://img.shields.io/github/license/6IXK1LL/JetArticles?style=flat">
